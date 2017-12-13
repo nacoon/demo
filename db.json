@@ -174,26 +174,6 @@
         "name": "Matt Gemmell",
         "nickname": "@mattgemmell"
       }
-    },
-    {
-      "date": "48 minutes ago",
-      "text": "Sharding is finished, and pushed to trunk have been re-enabled. Please open any issues if things aren’t working as normal.",
-      "latitude": 21.290833,
-      "longitude": -157.85161,
-      "user": {
-        "avatar": "https://pbs.twimg.com/profile_images/856925382393638913/HjRakN3D_400x400.jpg",
-        "name": "Samuel Giddins",
-        "nickname": "@segiddins"
-      }
-    },
-    {
-      "date": "1 hour ago",
-      "text": "I really wish other conferences in our industry start paying this topic more attention. Way more transcendental than the next fad framework.",
-      "user": {
-        "avatar": "https://pbs.twimg.com/profile_images/731390445838839809/0zvrOZE0_bigger.jpg",
-        "name": "Hadi Hariri",
-        "nickname": "@hhariri"
-      }
     }
   ]
 }
